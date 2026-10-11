@@ -32,7 +32,6 @@ docker/
 Makefile
 
 # Test files
-*_test.go
 *.test
 
 # Manager/dist é necessário - serve arquivos estáticos do frontend React
